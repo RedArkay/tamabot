@@ -1,2 +1,0 @@
-# tamabot
-Private discord bot
